@@ -1,14 +1,10 @@
 
    
-html {
-    width: 100%;
-    background-color: #000;
-   background-image: url("https://github.com/j-kimbrough/Lava-Java/blob/main/Images/nafinia-putra-Kwdp-0pok-I-unsplash.jpg");
-}
+
 
 body {
     width: 80%;
-    background-color: #fff;
+    background-color: white;
     height: 500px;
     margin: 0 auto;
 }
@@ -19,6 +15,7 @@ header {
   background: #F4A988;
   color: white;
   font-size: 20px;
+   
 }
 
 header h1 {
