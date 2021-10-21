@@ -14,11 +14,12 @@ body {
 }
 
 header {
-  padding: 60px;
+  padding: 40px;
   text-align: center;
   background: #F4A988;
   color: white;
   font-size: 20px;
+   font-size: 1em;
    
 }
 
