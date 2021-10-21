@@ -19,7 +19,7 @@ body {
 header {
   padding: 40px;
   text-align: center;
-  background: #F4A988;
+  background: #D1A08B;
   color: white;
   font-size: 20px;
    font-size: 1em;
@@ -47,7 +47,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #E3BBAA;
 }
 
 li {
