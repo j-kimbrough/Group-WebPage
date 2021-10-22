@@ -4,7 +4,8 @@ html {
    background-image: url("../Images/ruben-ramirez-xhKG01FN2uk-unsplash (1).jpg");
     background-position: center;
      background-repeat: repeat;
-    background-size: cover
+    background-size: cover;
+    font-family: 'Courier New', monospace;
 }
    
 
@@ -25,6 +26,7 @@ header {
   color: white;
   font-size: 20px;
   font-size: 1em;
+  opacity: .2;
    
 }
 
