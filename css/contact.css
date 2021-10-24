@@ -7,7 +7,14 @@ html {
     background-size: cover;
     font-family: "Lucida Console", "Courier New", monospace;
 }
-   
+  
+#page#header {
+  padding: 40px;
+  text-align: center;
+  background: #B68975;
+  color: white;
+  font-size: 20px;
+}
 body {
     width: 85%;
     background-color: white;
