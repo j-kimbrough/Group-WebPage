@@ -8,13 +8,19 @@ html {
     font-family: "Lucida Console", "Courier New", monospace;
 }
   
-page.header {
+#page#header {
   padding: 40px;
   text-align: center;
   background: #B68975;
   color: white;
   font-size: 20px;
 }
+header h1 {
+    width: 150px;
+    margin: 0 auto;
+    padding-top: 25px;
+}
+
 body {
     width: 85%;
     background-color: white;
