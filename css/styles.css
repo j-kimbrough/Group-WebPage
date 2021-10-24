@@ -100,8 +100,9 @@ li a:hover {
 
 .footer {
   position:fixed;
-  bottom:0;
-  left:0;
+  bottom: 0;
+  width:85%;
+  margin: 0 auto;
   height: 90px;
   background-color: #B68975;
 }
