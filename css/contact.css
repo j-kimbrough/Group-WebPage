@@ -1,3 +1,14 @@
+html {
+    width: 100%;
+    background-color: #000;
+   background-image: url("../Images/ruben-ramirez-xhKG01FN2uk-unsplash (1).jpg");
+    background-position: center;
+     background-repeat: repeat;
+    background-size: cover;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+   
+
 @import url(https://fonts.googleapis.com/css?family=Lato:100,300,400);
 
 
