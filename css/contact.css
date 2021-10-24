@@ -8,7 +8,7 @@ html {
     font-family: "Lucida Console", "Courier New", monospace;
 }
   
-#page#header {
+page,header {
   padding: 40px;
   text-align: center;
   background: #B68975;
