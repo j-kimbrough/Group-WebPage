@@ -90,3 +90,8 @@ li a:hover {
   .column {
     width: 100%;
   }
+    
+#mainContent img.articleImage {
+  display: block;
+  margin: 1em 0;
+}
