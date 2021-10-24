@@ -16,7 +16,7 @@ body {
     height: 800px;
     margin: 0 auto;
 }
-#menu#body {
+#menu #body {
     width: 85%;
     background-color: white;
     height: 1200px;
@@ -96,7 +96,7 @@ li a:hover {
   margin: 1em 0;
 }
     
-#contact#body {font-family: "Lucida Console", "Courier New", monospace;}
+#contact #body {font-family: "Lucida Console", "Courier New", monospace;}
 * {box-sizing: border-box;}
 
 input[type=text], select, textarea {
