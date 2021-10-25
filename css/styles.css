@@ -98,24 +98,11 @@ li a:hover {
 
 /* Footer */
 
-.footer {
-  position:fixed;
-  bottom: 0;
-  width:85%;
-  margin: 0 auto;
-  height: 90px;
-  background-color: #B68975;
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #E3C8C;
+  color: white;
 }
-    
-footer-text-left {
-  font-size:25px;
-  padding-left:40px;
-  float:left;
-  word-spacing:20px;
-}
-
-a.menu:hover {
-  background-color:grey;
-  font-size:20px;
-}
+  
  
