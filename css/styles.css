@@ -74,14 +74,14 @@ li a:hover {
   display: flex;
 }
 #leftThing {
-  width: 30%;
+  width: 33.3%;
   background-color: ##FFFFFF;
 #content {
-  width: 30%;
+  width: 33.3%;
   background-color: ##FFFFFF;
 }
 #rightThing {
-  width: 30%;
+  width: 33.3%;
   background-color: ##FFFFFF;
 }
 
