@@ -80,9 +80,6 @@ li a:hover {
   clear: both;
 }
 
-#headerImage {
-    width: 250px;
-}
 /* 
 @media screen and (max-width: 600px) {
   .column {
@@ -94,7 +91,6 @@ li a:hover {
 
 footer {
   padding: 3px;
-  background-color: #E3C8C;
   color: white;
 }
   
