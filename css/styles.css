@@ -68,17 +68,21 @@ li a:hover {
   background-color: #111;
 }
 
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 10px;
+#container {
+  height: 100%;
+  width: 100%;
+  display: flex;
 }
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
+#leftThing {
+  width: 30%;
+  background-color: ##FFFFFF;
+#content {
+  width: 30%;
+  background-color: ##FFFFFF;
+}
+#rightThing {
+  width: 30%;
+  background-color: ##FFFFFF;
 }
 
 /* 
