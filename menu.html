@@ -23,72 +23,25 @@
 
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>CSS | Display property</title>
-        <style>
-        #main{
-                height: 100px;
-                width: 200px;
-                background: teal;
-                display: inline-block;
-             
-            }
-            #main1{
-                height: 100px;
-                width: 200px;
-                background: ##FFFFFF             
-                display: inline-block;
-             
-            }
-            #main2{
-                height: 100px;
-                width: 200px;
-                background: ##FFFFFF;
-                display: inline-block;
-            }
-            .gfg {
-                margin-left:200px;
-                font-size:42px;
-                font-weight:bold;
-                color:#009900;
-            }
-            .geeks {
-                font-size:25px;
-                margin-left:210px;
-            }
-            .main {
-                margin:50px;
-            }
-        </style>
-    </head>
-    <body>
-        <div class = "gfg">GeeksforGeeks</div>
-        <div class = "geeks">display: Inline-block; property</div>
-        <div class = "main">
-        <div id="main"> Drinks </div>
-             <p> <br>Expresso</br>
-                <br>Americano</br>
-                <br>Cappuccino</br>
-                <br>Latte</br>
-                <br>Macchiato</br>
-                <br>Mocha</br>
-                <br>Chai</br></p>
-
-            <div id="main1"> Seasonal Drinks </div>
-                <p> <br>Salted Caramel Latte</br>
-                <br>Cinnamon Apple Chai</br>
-                <br>Peppermint Mocha</br>
-                <br>Match Pumpkin Latte</br></p>
-
-            <div id="main2"> Baked Goods </div>
-                <p> <br>Almond Croissant</br>
-                <br>Apple Turnover</br>
-                <br>Bagels</br>
-                <br>Banana Bread</br>
-                <br>Muffins</br>
-                <br>10-Layered Cakes</br></p>
-
-        </div>
+<head>
+<title>Website Title</title>
+<style type="text/css">
+* {margin: 0; padding: 0;}
+#container {height: 100%; width:100%; font-size: 0;}
+#left, #middle, #right {display: inline-block; *display: inline; zoom: 1; vertical-align: top; font-size: 12px;}
+#left {width: 25%; background: ##FFFFFF;}
+#middle {width: 50%; background: ##FFFFFF;}
+#right {width: 25%; background: ##FFFFFF;}
+</style>
+</head>
+<body>
+<div id="container">
+    <div id="left">Drinks</div>
+    <div id="middle">Seasonal Drinks</div>
+    <div id="right">Baked Goods</div>
+</div>
+</body>
+</html>
 
     <div class="column" style="background-color:##FFFFFF;">
     <img src="Images/anastasiia-balandina-fW0XhwPvisc-unsplash.jpg"/style="width: 200px;">
