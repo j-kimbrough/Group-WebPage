@@ -68,22 +68,21 @@ li a:hover {
   background-color: #111;
 }
 
-#container {
-  height: 100%;
-  width: 100%;
-  display: flex;
 }
-#leftThing {
-  width: 25%;
-  background-color: blue;
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 200px;
 }
-#content {
-  width: 50%;
-  background-color: green;
-}
-#rightThing {
-  width: 25%;
-  background-color: yellow;
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 /* 
