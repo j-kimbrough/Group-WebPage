@@ -105,5 +105,6 @@ li a:hover {
 
 footer {
   padding: 3px;
-  color: white;
+  color: black;
+  opacity: .5;
 }
