@@ -93,24 +93,6 @@ li a:hover {
   display: table;
   clear: both;
 }
-
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 30%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
 @media screen and (max-width: 600px) {
   .column {
     width: 100%;
